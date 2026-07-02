@@ -1,0 +1,12 @@
+{
+  "name": "dictator-mbappe",
+  "version": "1.0.0",
+  "description": "Documentation of the Dictator Mbappé viral meme trend",
+  "keywords": ["mbappe", "dictator", "meme", "viral", "tiktok"],
+  "author": "Meme Historian",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
